@@ -9,7 +9,7 @@
 	--online-indicator: var(--accent-2);
 
 	/* top left text */
-	--corner-text: 'Midnight';
+	--corner-text: '✩°｡⋆♱⋆｡°✩';
 
 	/* home icon */
 	--moon-icon: block; /* change to none to hide moon icon */
@@ -19,12 +19,12 @@
 	--spacing: 12px;
 
 	/* animations */
-	--hover-push: 0.2s ease;
+	--hover-push: 1.1s ease;
 
 	/* corner roundness (border-radius) */
-	--roundness-xl: 22px; /* roundness of big panel outer corners */
-	--roundness-l: 20px; /* popout panels */
-	--roundness-m: 16px; /* smaller panels, images, embeds */
+	--roundness-xl: 16px; /* roundness of big panel outer corners */
+	--roundness-l: 16px; /* popout panels */
+	--roundness-m: 15px; /* smaller panels, images, embeds */
 	--roundness-s: 12px; /* members, settings inputs */
 	--roundness-xs: 10px; /* channels, buttons */
 	--roundness-xxs: 8px; /* searchbar, small elements */
