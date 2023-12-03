@@ -16,10 +16,10 @@
 	--discord-icon: none; /* change to block to show default discord icon */
 
 	/* amount of spacing and padding */
-	--spacing: 12px;
+	--spacing: 5px;
 
 	/* animations */
-	--hover-push: 1.1s ease;
+	--hover-push: 0.1s ease;
 
 	/* corner roundness (border-radius) */
 	--roundness-xl: 5px; /* roundness of big panel outer corners */
