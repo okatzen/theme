@@ -9,7 +9,7 @@
 	--online-indicator: var(--accent-2);
 
 	/* top left text */
-	--corner-text: '✩°｡⋆♱⋆｡°✩';
+	--corner-text: '✩°｡⋆oka♱zen⋆｡°✩';
 
 	/* home icon */
 	--moon-icon: block; /* change to none to hide moon icon */
@@ -22,12 +22,12 @@
 	--hover-push: 1.1s ease;
 
 	/* corner roundness (border-radius) */
-	--roundness-xl: 16px; /* roundness of big panel outer corners */
-	--roundness-l: 16px; /* popout panels */
-	--roundness-m: 15px; /* smaller panels, images, embeds */
-	--roundness-s: 12px; /* members, settings inputs */
-	--roundness-xs: 10px; /* channels, buttons */
-	--roundness-xxs: 8px; /* searchbar, small elements */
+	--roundness-xl: 5px; /* roundness of big panel outer corners */
+	--roundness-l: 5px; /* popout panels */
+	--roundness-m: 5px; /* smaller panels, images, embeds */
+	--roundness-s: 5px; /* members, settings inputs */
+	--roundness-xs: 5px; /* channels, buttons */
+	--roundness-xxs: 5px; /* searchbar, small elements */
 
 	/* accent colors */
 	--accent-1: hsl(190, 80%, 60%); /* links */
